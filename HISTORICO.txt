@@ -1,0 +1,14 @@
+https://pt.wikipedia.org/wiki/Pi
+https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Monte_Carlo
+https://www.youtube.com/watch?v=9aJADZgNl18
+https://www.youtube.com/watch?v=HL2XdcVPEdQ
+http://recologia.com.br/2013/07/estimando-o-valor-de-pi-usando-o-metodo-de-monte-carlo/
+https://vammm.wordpress.com/2012/11/11/calculando-o-numero-pi-aplicando-monte-carlo-ao-php/
+--------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=GdzlOOJ9NWk
+https://www.youtube.com/watch?v=a1eHCZBpxpk&list=PLIPUpvW8kY_Mk6akPkQ9EkuZvyawSO-rq&index=2
+https://pt.wikipedia.org/wiki/Ruby_%28linguagem_de_programa%C3%A7%C3%A3o%29#Declara.C3.A7.C3.A3o_de_vari.C3.A1veis
+https://valbertovc.wordpress.com/2011/07/12/instalacao-do-ruby-no-linux-ubuntu/
+http://sobrecodigo.com/ruby-101-o-basico-de-ruby-para-poder-utilizar-tanto-o-rails-quanto-o-cucumber/
+https://www.ruby-lang.org/pt/documentation/quickstart/
+

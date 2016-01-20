@@ -1,0 +1,60 @@
+﻿Desafio NoBox - Programação
+===========================
+
+Olá Candidato, bem vindo a Seleção NoBox 2016!
+
+Você está agora na etapa do Desafio prático, então preparamos algo
+para que você possa mostrar suas habilidades na área que você escolheu.
+
+O que pedimos aqui, é o MÍNIMO esperado. Utilize seus neurônios e sua 
+criatividade para fazer em cima disso, o que quiser.
+
+
+Orientações
+-----------
+1) Use esta pasta para colocar TODOS os arquivos que estiver utilizando.
+
+2) Pedimos que coloque TODOS os links de pesquisas que fizer no arquivo
+   HISTORICO.txt, junto com quaisquer informações que achar pertinente.
+   (Vídeos do YouTube, Sites, "livros"...)
+   Pense neste arquivo, como uma forma de entender como chegou na solução,
+   ele é importante para te entendermos melhor.
+
+3) Assim que concluir completamente o desafio, crie um arquivo chamado 
+   TERMINADO.txt dentro desta pasta. Assim, iremos saber que terminou.
+
+4) O prazo para término é até o dia 24/01/2016. Tenha CERTEZA de que 
+   o arquivo TERMINADO.txt, junto com todo o projeto esteja dentro da pasta.
+
+
+O desafio
+---------
+
+Sabe toda as linguagens que conhece? Esqueça elas.
+
+Você tem até o prazo estipulado para:
+
+1) Escolher uma linguagem que NUNCA tenha estudado/compilado/rodado um
+   programa nela.
+
+2) Programar para que ela calcule o número PI, até a 3ª casa decimal.
+
+3) Fazer uma video aula, explicando seu código, como um tutorial.
+   Pense desta forma: Você deve explicar para você mesmo, no passo 1.
+
+4) Comprimir o vídeo para que tenha no máximo 50Mb, OU, fazer o upload 
+   para o Youtube/Vimeo, e incluir o Link em um arquivo chamado "TUTORIAL.txt"
+
+O que também PODE:
+-----------
+> Comentar maravilhosamente seu código
+> Utilizar funções aritméticas
+> Publicar no seu GitHub
+
+O que NÃO PODE:
+---------------
+> Utilizar funções geométricas NATIVAS (cos, sin, tg...)
+> Copiar e colar código.
+
+
+"Que o trabalho/distância esteja com você."

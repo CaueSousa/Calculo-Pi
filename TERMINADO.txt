@@ -1,0 +1,24 @@
+aproximacao_pi = 0.0 #Essa variavel irá armazenar a nossa aproximação de Pi
+qtde_pontos_circulo = 0.0; #Essa variavel irá armazenar a quantidade de pontos que "cairem" dentro do nosso circulo imaginario		
+N = 3000000 #Para realizar o calculo da aproximação utilizaremos 10 milhões de pontos com o objetivo de atingir grande precisão
+
+puts "Ola, seja bem vindo. Aguarde alguns segundos enquanto eu calculo um valor aproximado para Pi pra voce" #Essa linha dá as boas vindas
+
+for i in 1..N  #Nessa linha é aberto o laço for que irá : a)criar os nossos pontos aleatórios, b) descobrir se eles estão dentro do circulo
+	x=Random.rand(4.0) #Aqui é gerado um numero entre 0-4(esse intervalo foi escolhido para que todos os pontos estejam dentro do quadrado)
+	y=Random.rand(4.0) #Idem ^
+	d = Math.sqrt(((x-2)**2) + ((y-2)**2)) #Essa linha calcula a distância do nosso ponto aleatório até o centro do circulo 
+
+	if (d<=2) #e se essa distância que calculamos usando a formula de Pitagoras for menor ou igual ao raio do circulo (2)
+		qtde_pontos_circulo = qtde_pontos_circulo + 1 #a variavel que conta o numero de pontos dentro do circulo é incrementada
+		
+	end #Fim do "if"
+
+end #Fim do "for"
+
+aproximacao_pi = 4 * (qtde_pontos_circulo / N) #Aqui é realizado o calculo de Pi conforme as formulas deduzidas no tutorial
+
+puts aproximacao_pi.round(3) #E aqui é mostrado para o usuario o valor obtido na aproximação com 3 casas decimais
+
+	
+	
